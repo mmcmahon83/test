@@ -1,2 +1,0 @@
-the is file1.txt
-new line
